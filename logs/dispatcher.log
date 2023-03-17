@@ -2,3 +2,7 @@
 2023-03-17 12:30:49 DEBUG TelegramBot:31 - ghj
 2023-03-17 12:30:49 ERROR TelegramBot:48 - org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Unable to deserialize response
 2023-03-17 12:35:28 DEBUG TelegramBot:31 - cghjk
+2023-03-17 13:18:49 DEBUG UpdateProducerImpl:20 - dfg
+2023-03-17 13:19:17 DEBUG UpdateProducerImpl:20 - 
+2023-03-17 13:52:01 DEBUG UpdateProducerImpl:21 - ghj
+2023-03-17 13:52:26 DEBUG UpdateProducerImpl:21 - hello Ex File
